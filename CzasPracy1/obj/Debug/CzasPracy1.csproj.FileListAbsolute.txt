@@ -1,0 +1,77 @@
+c:\users\brtk\documents\visual studio 2013\Projects\CzasPracy1\CzasPracy1\bin\Debug\CzasPracy1.exe.config
+c:\users\brtk\documents\visual studio 2013\Projects\CzasPracy1\CzasPracy1\bin\Debug\CzasPracy1.exe
+c:\users\brtk\documents\visual studio 2013\Projects\CzasPracy1\CzasPracy1\bin\Debug\CzasPracy1.pdb
+c:\users\brtk\documents\visual studio 2013\Projects\CzasPracy1\CzasPracy1\obj\Debug\CzasPracy1.csprojResolveAssemblyReference.cache
+c:\users\brtk\documents\visual studio 2013\Projects\CzasPracy1\CzasPracy1\obj\Debug\CzasPracy1.Properties.Resources.resources
+c:\users\brtk\documents\visual studio 2013\Projects\CzasPracy1\CzasPracy1\obj\Debug\CzasPracy1.csproj.GenerateResource.Cache
+c:\users\brtk\documents\visual studio 2013\Projects\CzasPracy1\CzasPracy1\obj\Debug\CzasPracy1.exe
+c:\users\brtk\documents\visual studio 2013\Projects\CzasPracy1\CzasPracy1\obj\Debug\CzasPracy1.pdb
+C:\Users\Brtk\Documents\Visual Studio 2013\Projects\CzasPracy1\CzasPracy1\bin\Debug\czasPracy.mdf
+C:\Users\Brtk\Documents\Visual Studio 2013\Projects\CzasPracy1\CzasPracy1\bin\Debug\czasPracy_log.ldf
+C:\Users\Brtk\Documents\Visual Studio 2013\Projects\CzasPracy1\CzasPracy1\obj\Debug\CzasPracy1.frmPiloci.resources
+C:\Users\Brtk\Documents\Visual Studio 2013\Projects\CzasPracy1\CzasPracy1\obj\Debug\CzasPracy1.frmCzasPracy.resources
+C:\Users\Brtk\Documents\Visual Studio 2013\Projects\CzasPracy1\CzasPracy1\obj\Debug\CzasPracy1.frmInstruktorzy.resources
+C:\Users\Brtk\Documents\Visual Studio 2013\Projects\CzasPracy1\CzasPracy1\obj\Debug\CzasPracy1.frmSluzby.resources
+C:\Users\Brtk\Documents\Visual Studio 2013\Projects\CzasPracy1\CzasPracy1\obj\Debug\CzasPracy1.frmPodsumowanie.resources
+C:\Users\Brtk\documents\visual studio 2013\Projects\CzasPracy1\CzasPracy1\obj\Debug\CzasPracy1.frmGrafikACC.resources
+C:\Users\Brtk\documents\visual studio 2013\Projects\CzasPracy1\CzasPracy1\obj\Debug\CzasPracy1.frmGrafikAPP.resources
+C:\Users\Brtk\documents\visual studio 2013\Projects\CzasPracy1\CzasPracy1\obj\Debug\CzasPracy1.frmGrafikTWR.resources
+C:\Users\Pseudopiloci\Desktop\b\CzasPracy1\CzasPracy1\bin\Debug\CzasPracy1.exe.config
+C:\Users\Pseudopiloci\Desktop\b\CzasPracy1\CzasPracy1\obj\Debug\CzasPracy1.exe
+C:\Users\Pseudopiloci\Desktop\b\CzasPracy1\CzasPracy1\obj\Debug\CzasPracy1.pdb
+C:\Users\Pseudopiloci\Desktop\b\CzasPracy1\CzasPracy1\bin\Debug\czasPracy.mdf
+C:\Users\Pseudopiloci\Desktop\b\CzasPracy1\CzasPracy1\bin\Debug\czasPracy_log.ldf
+C:\Users\Pseudopiloci\Desktop\b\CzasPracy1\CzasPracy1\bin\Debug\CzasPracy1.exe
+C:\Users\Pseudopiloci\Desktop\b\CzasPracy1\CzasPracy1\bin\Debug\CzasPracy1.pdb
+C:\Users\Pseudopiloci\Desktop\b\CzasPracy1\CzasPracy1\obj\Debug\CzasPracy1.csprojResolveAssemblyReference.cache
+C:\Users\Pseudopiloci\Desktop\b\CzasPracy1\CzasPracy1\obj\Debug\CzasPracy1.frmCzasPracy.resources
+C:\Users\Pseudopiloci\Desktop\b\CzasPracy1\CzasPracy1\obj\Debug\CzasPracy1.frmGrafikACC.resources
+C:\Users\Pseudopiloci\Desktop\b\CzasPracy1\CzasPracy1\obj\Debug\CzasPracy1.frmGrafikAPP.resources
+C:\Users\Pseudopiloci\Desktop\b\CzasPracy1\CzasPracy1\obj\Debug\CzasPracy1.frmGrafikTWR.resources
+C:\Users\Pseudopiloci\Desktop\b\CzasPracy1\CzasPracy1\obj\Debug\CzasPracy1.frmInstruktorzy.resources
+C:\Users\Pseudopiloci\Desktop\b\CzasPracy1\CzasPracy1\obj\Debug\CzasPracy1.frmPiloci.resources
+C:\Users\Pseudopiloci\Desktop\b\CzasPracy1\CzasPracy1\obj\Debug\CzasPracy1.frmPodsumowanie.resources
+C:\Users\Pseudopiloci\Desktop\b\CzasPracy1\CzasPracy1\obj\Debug\CzasPracy1.frmSluzby.resources
+C:\Users\Pseudopiloci\Desktop\b\CzasPracy1\CzasPracy1\obj\Debug\CzasPracy1.Properties.Resources.resources
+C:\Users\Pseudopiloci\Desktop\b\CzasPracy1\CzasPracy1\obj\Debug\CzasPracy1.csproj.GenerateResource.Cache
+C:\b\CzasPracy - projekt\CzasPracy1\bin\Debug\CzasPracy1.exe.config
+C:\b\CzasPracy - projekt\CzasPracy1\obj\Debug\CzasPracy1.exe
+C:\b\CzasPracy - projekt\CzasPracy1\obj\Debug\CzasPracy1.pdb
+C:\b\CzasPracy - projekt\CzasPracy1\bin\Debug\czasPracy.mdf
+C:\b\CzasPracy - projekt\CzasPracy1\bin\Debug\czasPracy_log.ldf
+C:\b\CzasPracy - projekt\CzasPracy1\bin\Debug\CzasPracy1.exe
+C:\b\CzasPracy - projekt\CzasPracy1\bin\Debug\CzasPracy1.pdb
+C:\b\CzasPracy - projekt\CzasPracy1\obj\Debug\CzasPracy1.csprojResolveAssemblyReference.cache
+C:\b\CzasPracy - projekt\CzasPracy1\obj\Debug\CzasPracy1.frmCzasPracy.resources
+C:\b\CzasPracy - projekt\CzasPracy1\obj\Debug\CzasPracy1.frmGrafikACC.resources
+C:\b\CzasPracy - projekt\CzasPracy1\obj\Debug\CzasPracy1.frmGrafikAPP.resources
+C:\b\CzasPracy - projekt\CzasPracy1\obj\Debug\CzasPracy1.frmGrafikTWR.resources
+C:\b\CzasPracy - projekt\CzasPracy1\obj\Debug\CzasPracy1.frmInstruktorzy.resources
+C:\b\CzasPracy - projekt\CzasPracy1\obj\Debug\CzasPracy1.frmPiloci.resources
+C:\b\CzasPracy - projekt\CzasPracy1\obj\Debug\CzasPracy1.frmPodsumowanie.resources
+C:\b\CzasPracy - projekt\CzasPracy1\obj\Debug\CzasPracy1.frmSluzby.resources
+C:\b\CzasPracy - projekt\CzasPracy1\obj\Debug\CzasPracy1.Properties.Resources.resources
+C:\b\CzasPracy - projekt\CzasPracy1\obj\Debug\CzasPracy1.csproj.GenerateResource.Cache
+C:\b\CzasPracy - projekt\CzasPracy1\obj\Debug\CzasPracy1.frmHaslo.resources
+C:\b\CzasPracy - projekt\CzasPracy1\obj\Debug\CzasPracy1.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\CzasPracy - projekt 08 06 2015\CzasPracy - projekt\CzasPracy1\bin\Debug\czasPracy.mdf
+C:\Users\User\Desktop\CzasPracy - projekt 08 06 2015\CzasPracy - projekt\CzasPracy1\bin\Debug\czasPracy_log.ldf
+C:\Users\User\Desktop\CzasPracy - projekt 08 06 2015\CzasPracy - projekt\CzasPracy1\bin\Debug\CzasPracy1.exe.config
+C:\Users\User\Desktop\CzasPracy - projekt 08 06 2015\CzasPracy - projekt\CzasPracy1\bin\Debug\CzasPracy1.exe
+C:\Users\User\Desktop\CzasPracy - projekt 08 06 2015\CzasPracy - projekt\CzasPracy1\bin\Debug\CzasPracy1.pdb
+C:\Users\User\Desktop\CzasPracy - projekt 08 06 2015\CzasPracy - projekt\CzasPracy1\obj\Debug\CzasPracy1.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\CzasPracy - projekt 08 06 2015\CzasPracy - projekt\CzasPracy1\obj\Debug\CzasPracy1.frmCzasPracy.resources
+C:\Users\User\Desktop\CzasPracy - projekt 08 06 2015\CzasPracy - projekt\CzasPracy1\obj\Debug\CzasPracy1.frmGrafikACC.resources
+C:\Users\User\Desktop\CzasPracy - projekt 08 06 2015\CzasPracy - projekt\CzasPracy1\obj\Debug\CzasPracy1.frmGrafikAPP.resources
+C:\Users\User\Desktop\CzasPracy - projekt 08 06 2015\CzasPracy - projekt\CzasPracy1\obj\Debug\CzasPracy1.frmGrafikTWR.resources
+C:\Users\User\Desktop\CzasPracy - projekt 08 06 2015\CzasPracy - projekt\CzasPracy1\obj\Debug\CzasPracy1.frmHaslo.resources
+C:\Users\User\Desktop\CzasPracy - projekt 08 06 2015\CzasPracy - projekt\CzasPracy1\obj\Debug\CzasPracy1.frmInstruktorzy.resources
+C:\Users\User\Desktop\CzasPracy - projekt 08 06 2015\CzasPracy - projekt\CzasPracy1\obj\Debug\CzasPracy1.frmPiloci.resources
+C:\Users\User\Desktop\CzasPracy - projekt 08 06 2015\CzasPracy - projekt\CzasPracy1\obj\Debug\CzasPracy1.frmPodsumowanie.resources
+C:\Users\User\Desktop\CzasPracy - projekt 08 06 2015\CzasPracy - projekt\CzasPracy1\obj\Debug\CzasPracy1.frmSluzby.resources
+C:\Users\User\Desktop\CzasPracy - projekt 08 06 2015\CzasPracy - projekt\CzasPracy1\obj\Debug\CzasPracy1.Properties.Resources.resources
+C:\Users\User\Desktop\CzasPracy - projekt 08 06 2015\CzasPracy - projekt\CzasPracy1\obj\Debug\CzasPracy1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CzasPracy - projekt 08 06 2015\CzasPracy - projekt\CzasPracy1\obj\Debug\CzasPracy1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CzasPracy - projekt 08 06 2015\CzasPracy - projekt\CzasPracy1\obj\Debug\CzasPracy1.exe
+C:\Users\User\Desktop\CzasPracy - projekt 08 06 2015\CzasPracy - projekt\CzasPracy1\obj\Debug\CzasPracy1.pdb
+C:\Users\User\Desktop\CzasPracy - projekt 08 06 2015\CzasPracy - projekt\CzasPracy1\obj\Debug\CzasPracy1.csproj.AssemblyReference.cache
